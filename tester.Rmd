@@ -15,5 +15,6 @@ Below is some example code:
 df <- nycflights13::flights
 
 ncol(df)
+nrow(df)
 ```
 
