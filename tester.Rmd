@@ -13,5 +13,7 @@ This is a tester document to demonstrate git merge conflicts.
 Below is some example code: 
 ```{r read-in-data}
 df <- nycflights13::flights
+
+ncol(df)
 ```
 
